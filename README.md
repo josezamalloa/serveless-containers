@@ -140,5 +140,6 @@ Ambos deben devolver el mismo JSON con la lista de productos.
 
 Demostración realizada como parte del webinar:  
 **“Serverless vs. Contenedores: ¿Cuál es la Mejor Opción para tu Arquitectura?”**
+
 https://www.youtube.com/watch?v=PBdMEumK3wE
 ---
