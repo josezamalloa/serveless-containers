@@ -27,7 +27,6 @@ Esta demostración contiene dos implementaciones de una API simple de productos 
   - Lambda
   - API Gateway
   - IAM
-  - CloudFormation
   - ECS
   - ECR
   - Fargate
